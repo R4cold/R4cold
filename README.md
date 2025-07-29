@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars :p</p>
+<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars and Games</p>
 
 ###
 
