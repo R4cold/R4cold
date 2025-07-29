@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars and I make games</p>
+<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars and I make games<br> 🔗 My social media <a href="https://linktr.ee/r4cold" target="_blank">here</a></p>
 
 ###
 
