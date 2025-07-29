@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars and Games</p>
+<p align="left">✨ Coding since 2024 ...<br>📚 I'm currently learning HTML, CSS and JS<br>🎯 Goals: Work with programming<br>🎲 Fun fact: I like Star Wars and I make games</p>
 
 ###
 
@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="30" alt="godot logo" />
+  <img widht="12" />
 </div>
 
 ###
